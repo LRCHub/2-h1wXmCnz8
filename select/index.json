@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "これから",
+  "base_artist": "がーどまん",
+  "createdAt": "2026-02-12T14:11:18.794474Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "これから",
+      "artist": "Masayuki Suzuki",
+      "has_synced": false,
+      "path": "select/01_これから_Masayuki_Suzuki.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "これから",
+      "artist": "Maaya Sakamoto",
+      "has_synced": false,
+      "path": "select/02_これから_Maaya_Sakamoto.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "これから",
+      "artist": "Sakamoto, Maaya",
+      "has_synced": false,
+      "path": "select/03_これから_Sakamoto,_Maaya.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "そして、これから",
+      "artist": "伊藤かな恵",
+      "has_synced": false,
+      "path": "select/04_そして、これから_伊藤かな恵.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "これから",
+      "artist": "坂本真綾",
+      "has_synced": false,
+      "path": "select/05_これから_坂本真綾.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "これから",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/06_これから_μ's.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "これから",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/07_これから_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "これから (Off Vocal)",
+      "artist": "μ's",
+      "has_synced": false,
+      "path": "select/08_これから_(Off_Vocal)_μ's.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "これから",
+      "artist": "平原綾香",
+      "has_synced": true,
+      "path": "select/09_これから_平原綾香.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "これから (Off Vocal)",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/10_これから_(Off_Vocal)_μ's.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "これから",
+      "artist": "OGRE YOU ASSHOLE",
+      "has_synced": false,
+      "path": "select/11_これから_OGRE_YOU_ASSHOLE.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "これから",
+      "artist": "Koresawa",
+      "has_synced": true,
+      "path": "select/12_これから_Koresawa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "これから",
+      "artist": "坂本 真綾",
+      "has_synced": false,
+      "path": "select/13_これから_坂本_真綾.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "これから",
+      "artist": "Ayaka Hirahara",
+      "has_synced": true,
+      "path": "select/14_これから_Ayaka_Hirahara.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "これから (feat. じょう)",
+      "artist": "がーどまん",
+      "has_synced": false,
+      "path": "select/pl_01_これから_(feat._じょう)_がーどまん.txt"
+    }
+  ]
+}
